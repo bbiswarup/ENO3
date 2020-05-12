@@ -1,2 +1,2 @@
 # ENO3
-Third order ENO schemes
+Third order ENO scheme
