@@ -1,3 +1,5 @@
+# Theoritical iscussion of this code can be found in 
+# https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19980007543.pdf
 # from IPython import get_ipython
 # get_ipython().magic('reset -sf')
 import numpy as np
